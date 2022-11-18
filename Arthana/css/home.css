@@ -1,0 +1,56 @@
+@import url("../css/bordeer.css");
+a:visited {
+    text-decoration: underline solid #79D6EC 5px;
+}
+
+.cd {
+    margin-top: 10px;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.flex-container{
+    margin-top: 20px;
+    margin-left: 14px;
+}
+
+.btn-primary {
+    background-color: coral !important;
+    border: none;
+}
+
+.head {
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+
+.card{
+    margin-top: 100px;
+    margin-left: 50px;
+ }
+ 
+.card-text{
+    font-family: Arial;
+    font-size: large;
+}
+
+.card-img-top1{
+    width: 150px;
+    height: 161px;
+}
+.card-img-top2{
+    width: 157px;
+    height: 161px;
+}
+.card-img-top3{
+    width: 158px;
+    height: 161px;
+}
+
+.shop{
+    width: 750px;
+    height: 400px;
+    margin-bottom: 40px;
+    margin-left: 70px;
+}

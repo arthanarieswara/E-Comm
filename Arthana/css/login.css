@@ -1,0 +1,82 @@
+@import url("../css/bordeer.css");
+.img_girl{
+    margin-top: 150px;
+    margin-right: 500px;
+    width: 740px;
+    height: 500px
+}
+
+.flex-container{
+    margin-top: 20px;
+}
+
+.cd{
+    width: 10px;
+    height: 10px;
+}
+
+.form{
+    width: 550px;
+    height: 280px;
+    position: absolute;
+    top: -20px;
+    left: 1070px;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #000000;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 8px;
+
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #6ff7fc;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: Arial,;
+    outline: none;
+
+}
+
+.btn{
+    width: 240px;
+    height: 40px;
+    background: #3bb4f5;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #000000  ;
+    transition: 0.4s ease;
+}
+
+.btn:hover{
+    background: #32a3e5;
+    color: #ff7200;
+}
+
+.btn a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+
+}
